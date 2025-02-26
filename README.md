@@ -5,4 +5,4 @@ TMPT cookie/header API generator.
 - 5-10 seconds responses
 - Contact with me for pricing 
 
-Please contact me via discord @imbusto 
+Open source project -> https://discord.gg/tKtqJBkPnV
